@@ -3,7 +3,7 @@ log_parser.sh
 #!/bin/bash
 # Script: log_parser.sh
 # Purpose: Parse application logs and mail error summary
-# Author: Shubham Goyal | Date: 18-Apr-2026
+# Author: Shubham Goyal | Date: 18-Apr-2024
 
 LOG_FILE="/var/log/app.log"
 DATE=$(date +%F)
