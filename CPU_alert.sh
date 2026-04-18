@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script: cpu_alert.sh
 # Purpose: Monitor CPU usage and alert if > 90%
-# Author: Shubham Goyal | Date: 18-Apr-2026
+# Author: Shubham Goyal | Date: 20-feb-2026
 
 THRESHOLD=90
 CPU_USAGE=$(top -bn1 | grep "Cpu(s)" | awk '{print $2}' | cut -d. -f1)
