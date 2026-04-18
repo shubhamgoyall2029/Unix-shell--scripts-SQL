@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script: disk_alert.sh  
 # Purpose: Alert if disk usage > 80%
-# Author: Shubham Goyal | Date: 18-Apr-2026
+# Author: Shubham Goyal | Date: 18-jan-2025
 
 THRESHOLD=80
 SERVER=$(hostname)
