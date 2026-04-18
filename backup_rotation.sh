@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script: backup_rotation.sh
 # Purpose: Delete backup files older than 7 days
-# Author: Shubham Goyal | Date: 18-Apr-2026
+# Author: Shubham Goyal | Date: 23-sep-2025
 
 BACKUP_DIR="/opt/backup"
 DAYS=7
