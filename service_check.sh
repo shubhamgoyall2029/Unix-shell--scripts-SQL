@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script: service_check.sh
 # Purpose: Check if service is running, restart if down
-# Author: Shubham Goyal | Date: 18-Apr-2026
+# Author: Shubham Goyal | Date: 18-aug-2024
 
 SERVICE="apache2"  # mysql, nginx bhi daal sakte ho
 DATE=$(date +%F_%T)
